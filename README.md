@@ -1,5 +1,5 @@
 # Discord-RichPresence
-Get a cool playing field: Warning, can get you banned from Discord, use at risk
+Get a cool playing field: Warning, can get you banned from Discord, use at risk. Also still very buggy and takes time for any changes to have an affect. 
 ---
 
 ### step 1, make an application @ https://discordapp.com/developers/applications/me
