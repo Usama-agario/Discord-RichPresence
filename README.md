@@ -23,3 +23,5 @@ Get a cool playing field: Warning, can get you banned from Discord, use at risk
 ### step 6, fill out the rest of the config to your liking. 
 
 #### either run "node app.js" in your terminal window, or run the given launch.cmd file to have it auto run the script.
+
+![rich](https://cdn.discordapp.com/attachments/330201636523737088/353163605577039874/rich_presence.png)
