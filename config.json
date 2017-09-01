@@ -1,0 +1,11 @@
+{
+    "token": "INSERT YOUR TOKEN HERE",
+    "name": "NAME OF GAME YOU WILL BE PLAYING",
+    "subText": "DESCRIPTION; BELOW NAME",
+    "state": "BOTTOM TEXT",
+    "applicationID": "INSERT CLIENT ID OF APPLICATION HOSTING ASSETS",
+    "smallImgID": "INSERT ID OF SMALL IMAGE ASSET",
+    "smallImgText": "INSERT ALT TEXT OF SMALL IMG",
+    "largeImgID": "INSERT ID OF LARGE IMAGE ASSET",
+    "largeImgText": "INSERT ALT TEXT OF LARGE IMG"
+}
